@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>雄安电台</title>
-  <subtitle>雄安新闻早知道 只传递官方消息</subtitle>
+  <subtitle>雄安新闻早知道  只传递官方消息</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.xiongan.fm/"/>

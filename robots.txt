@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /assets/
+
+Sitemap: http://xiongan.fm/sitemap.xml
+Sitemap: http://xiongan.fm/baidusitemap.xml
